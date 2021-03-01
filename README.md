@@ -20,8 +20,6 @@ Qoo's Library Collection for PAWN https://github.com/zndn1997/pawn-qoo-lib
 * QString
 * QFader
 
-vehiclesize: Upload soon.
-
 ## How to compile
 1. Open the [ZeraRacing.pwn](ZeraRacing.pwn)
 2. Select SA-MP server version

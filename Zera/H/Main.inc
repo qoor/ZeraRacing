@@ -16,12 +16,12 @@
 #include <streamer>
 #include <QXml>
 
-#include <veh>
-#include <vehiclesize>
-
 #include <QFader>
 #include <QModule>
 #include <QContainer>
+
+#include "./Zera/H/veh.inc"
+#include "./Zera/H/vehiclesize.inc"
 
 #define COMMAND_DELIMITER " "
 
