@@ -3,7 +3,7 @@
 
 #define MYSQL_HOST "localhost"
 #define MYSQL_USER "zerarace"
-#define MYSQL_PASSWORD "Tkddnak1202"
+#define MYSQL_PASSWORD "ZeR@Rac3!"
 #define MYSQL_DATABASE "zera"
 //#define MYSQL_PORT 1202
 //#define MYSQL_USE_SSL

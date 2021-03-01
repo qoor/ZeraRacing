@@ -3,6 +3,8 @@
 ## Overview
 This SA-MP mode is DeathMatch Racing mode like a Multi Theft Auto.
 
+### NOTE: This mode is not tested.
+
 ## Requirements
 PAWN Compiler
 
