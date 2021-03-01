@@ -22,6 +22,20 @@ Qoo's Library Collection for PAWN https://github.com/zndn1997/pawn-qoo-lib
 
 vehiclesize: Upload soon.
 
+## How to compile
+1. Open the [ZeraRacing.pwn](ZeraRacing.pwn)
+2. Select SA-MP server version
+```pawn
+#define SAMP_03d 0
+#define SAMP_03z 1
+#define SAMP_037 2
+
+#define SAMP_VERSION SAMP_(version)
+
+// ...
+```
+3. Compile the [ZeraRacing.pwn](ZeraRacing.pwn)
+
 ## Author
 MaBling (Qoo)
 
